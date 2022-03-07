@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ApiRecibos20220304135400-apim/apis/apirecibos",
+      "type": "apis.azure"
+    }
+  }
+}
